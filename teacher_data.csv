@@ -1,0 +1,1001 @@
+﻿Course ID,Category,Sub-Category,Rating,Instructors
+0,Data Science,Machine Learning,4.9,Andrew Ng 
+0,Data Science,Machine Learning,4.9,Eddy Shyu 
+0,Data Science,Machine Learning,4.9,Aarti Bagul 
+0,Data Science,Machine Learning,4.9,Geoff Ladwig 
+1,Data Science,Data Analysis,4.7,Rav Ahuja 
+1,Data Science,Data Analysis,4.7,Alex Aklson 
+1,Data Science,Data Analysis,4.7,Aije Egwaikhide 
+1,Data Science,Data Analysis,4.7,Svetlana Levitan 
+1,Data Science,Data Analysis,4.7,Romeo Kienzler 
+1,Data Science,Data Analysis,4.7,Polong Lin 
+1,Data Science,Data Analysis,4.7,Hima Vasudevan 
+2,Data Science,Data Analysis,4.6,Aije Egwaikhide 
+2,Data Science,Data Analysis,4.6,Svetlana Levitan 
+2,Data Science,Data Analysis,4.6,Romeo Kienzler 
+2,Data Science,Data Analysis,4.6,Joseph Santarcangelo 
+2,Data Science,Data Analysis,4.6,Azim Hirjani 
+2,Data Science,Data Analysis,4.6,Murtaza Haider 
+2,Data Science,Data Analysis,4.6,Rav Ahuja 
+2,Data Science,Data Analysis,4.6,Hima Vasudevan 
+3,Business,Business Essentials,4.7,Rav Ahuja 
+3,Business,Business Essentials,4.7,Alex Aklson 
+4,Data Science,Machine Learning,4.9,Andrew Ng 
+4,Data Science,Machine Learning,4.9,Kian Katanforoosh 
+4,Data Science,Machine Learning,4.9,Younes Bensouda Mourri 
+5,Data Science,Machine Learning,4.8,Rav Ahuja 
+5,Data Science,Machine Learning,4.8,Jared Harris 
+5,Data Science,Machine Learning,4.8,Michael Lenox 
+5,Data Science,Machine Learning,4.8,Rajkumar Venkatesan 
+5,Data Science,Machine Learning,4.8,Yael Grushka-Cockayne  
+6,Data Science,Machine Learning,4.7,Rav Ahuja 
+6,Data Science,Machine Learning,4.7,Alex Aklson 
+6,Data Science,Machine Learning,4.7,Mark J Grover 
+6,Data Science,Machine Learning,4.7,Ray Lopez
+7,Data Science,Data Analysis,4.8,Rav Ahuja 
+7,Data Science,Data Analysis,4.8,Sandip Saha Joy 
+7,Data Science,Data Analysis,4.8,Steve Ryan 
+7,Data Science,Data Analysis,4.8,Kevin McFaul 
+7,Data Science,Data Analysis,4.8,Skills Network 
+8,Data Science,Machine Learning,4.6,Joseph Santarcangelo 
+8,Data Science,Machine Learning,4.6,Azim Hirjani 
+8,Data Science,Machine Learning,4.6,Saishruthi Swaminathan 
+8,Data Science,Machine Learning,4.6,Yan Luo 
+9,Information Technology,Data Management,4.7,Rav Ahuja 
+9,Information Technology,Data Management,4.7,Priya Kapoor 
+9,Information Technology,Data Management,4.7,Joseph Santarcangelo 
+9,Information Technology,Data Management,4.7,Ramesh Sannareddy 
+9,Information Technology,Data Management,4.7,Sandip Saha Joy 
+9,Information Technology,Data Management,4.7,Lin Joyner 
+9,Information Technology,Data Management,4.7,Rose Malcolm 
+9,Information Technology,Data Management,4.7,Hima Vasudevan 
+10,Information Technology,Security,4.6,IBM Security Learning Services 
+11,Computer Science,Software Development,4.7,Rav Ahuja 
+11,Computer Science,Software Development,4.7,Lin Joyner 
+11,Computer Science,Software Development,4.7,Bethany Hudnutt 
+11,Computer Science,Software Development,4.7,Sam Prokopchuk 
+11,Computer Science,Software Development,4.7,Ramesh Sannareddy 
+11,Computer Science,Software Development,4.7,Upkar Lidder 
+11,Computer Science,Software Development,4.7,Joseph Santarcangelo 
+12,Computer Science,Design and Product,4.8,John Rofrano 
+12,Computer Science,Design and Product,4.8,Rav Ahuja 
+13,Information Technology,Cloud Computing,4.5,Rav Ahuja 
+13,Information Technology,Cloud Computing,4.5,Upkar Lidder 
+13,Information Technology,Cloud Computing,4.5,Michelle Saltoun 
+13,Information Technology,Cloud Computing,4.5,Sachin Jambur 
+14,Computer Science,Software Development,4.8,Charles Russell Severance 
+15,Information Technology,Cloud Computing,4.8,Skills Network 
+15,Information Technology,Cloud Computing,4.8,Rav Ahuja 
+16,Information Technology,Data Management,4.6,Rav Ahuja 
+16,Information Technology,Data Management,4.6,Sam Prokopchuk 
+16,Information Technology,Data Management,4.6,Ramesh Sannareddy 
+16,Information Technology,Data Management,4.6,Hima Vasudevan 
+16,Information Technology,Data Management,4.6,Yan Luo 
+16,Information Technology,Data Management,4.6,Jeff Grossman 
+16,Information Technology,Data Management,4.6,Sabrina Spillner 
+17,Data Science,Machine Learning,4.6,Younes Bensouda Mourri 
+17,Data Science,Machine Learning,4.6,Łukasz Kaiser 
+17,Data Science,Machine Learning,4.6,Eddy Shyu 
+18,Business,Business Essentials,4.7,Barbara E. Kahn 
+18,Business,Business Essentials,4.7,Peter Fader 
+18,Business,Business Essentials,4.7,Jagmohan Raju 
+18,Business,Business Essentials,4.7,Brian J Bushee 
+18,Business,Business Essentials,4.7,Michael Useem 
+18,Business,Business Essentials,4.7,Peter Cappelli 
+18,Business,Business Essentials,4.7,Michael R Roberts 
+18,Business,Business Essentials,4.7,Christian Terwiesch 
+19,Computer Science,Mobile and Web Development,4.8,Taught by Meta Staff 
+20,Computer Science,Algorithms,4.5,Luis Serrano 
+20,Computer Science,Algorithms,4.5,Elena Sanina 
+20,Computer Science,Algorithms,4.5,Anshuman Singh 
+20,Computer Science,Algorithms,4.5,Magdalena Bouza 
+21,Business,Finance,4.4,Jessica Wachter 
+21,Business,Finance,4.4,Michael R Roberts 
+21,Business,Finance,4.4,Brian J Bushee 
+22,Data Science,Data Analysis,4.7,Rav Ahuja 
+22,Data Science,Data Analysis,4.7,Antonio Cangiano 
+23,Business,Finance,4.5,Richard Waterman 
+23,Business,Finance,4.5,Don Huesman 
+23,Business,Finance,4.5,Richard Lambert 
+23,Business,Finance,4.5,Christopher D. Ittner 
+23,Business,Finance,4.5,Michael R Roberts 
+24,Data Science,Machine Learning,4.7,Andrew Ng 
+24,Data Science,Machine Learning,4.7,Cristian Bartolomé Arámburu 
+24,Data Science,Machine Learning,4.7,Robert Crowe 
+24,Data Science,Machine Learning,4.7,Laurence Moroney 
+25,Business,Business Essentials,4.5,Richard Waterman 
+25,Business,Business Essentials,4.5,Don Huesman 
+25,Business,Business Essentials,4.5,Sergei Savin 
+25,Business,Business Essentials,4.5,Senthil Veeraraghavan 
+25,Business,Business Essentials,4.5,Richard Lambert 
+25,Business,Business Essentials,4.5,Robert W. Holthausen 
+26,Data Science,Data Analysis,4.6,Eric Bradlow 
+26,Data Science,Data Analysis,4.6,Peter Fader 
+26,Data Science,Data Analysis,4.6,Raghu Iyengar 
+26,Data Science,Data Analysis,4.6,Ron Berman 
+26,Data Science,Data Analysis,4.6,Senthil Veeraraghavan 
+26,Data Science,Data Analysis,4.6,Sergei Savin 
+26,Data Science,Data Analysis,4.6,Noah Gans 
+26,Data Science,Data Analysis,4.6,Cade Massey 
+26,Data Science,Data Analysis,4.6,Martine Haas 
+26,Data Science,Data Analysis,4.6,Matthew Bidwell 
+26,Data Science,Data Analysis,4.6,Brian J Bushee 
+26,Data Science,Data Analysis,4.6,Christopher D. Ittner 
+26,Data Science,Data Analysis,4.6,Wharton Teaching Staff 
+27,Business,Business Essentials,4.9,Nicky Bull 
+27,Business,Business Essentials,4.9,Dr Prashan S. M. Karunaratne 
+27,Business,Business Essentials,4.9,Professor Yvonne Breyer 
+28,Data Science,Data Analysis,4.5,Sadie St. Lawrence 
+28,Data Science,Data Analysis,4.5,Katrina Glaeser Poole 
+28,Data Science,Data Analysis,4.5,Brooke Wenig 
+28,Data Science,Data Analysis,4.5,Conor Murphy 
+28,Data Science,Data Analysis,4.5,Don Noxon 
+29,Business,Finance,4.7,Witold Henisz 
+29,Business,Finance,4.7,Christopher Geczy 
+29,Business,Finance,4.7,Sarah Light 
+29,Business,Finance,4.7,Mary-Hunter McDonnell 
+30,Business,Leadership and Management,4.7,Kartik Hosanagar 
+30,Business,Leadership and Management,4.7,Prasanna Tambe 
+30,Business,Leadership and Management,4.7,Michael R Roberts 
+30,Business,Leadership and Management,4.7,Raghu Iyengar 
+30,Business,Leadership and Management,4.7,Matthew Bidwell 
+30,Business,Leadership and Management,4.7,Peter Cappelli 
+30,Business,Leadership and Management,4.7,Lynn Wu 
+30,Business,Leadership and Management,4.7,Kevin Werbach 
+31,Computer Science,Design and Product,4.8,Alex Cowan 
+32,Business,Leadership and Management,4.7,Michael Lenox 
+32,Business,Leadership and Management,4.7,Amane Dannouni 
+32,Business,Leadership and Management,4.7,Sonja Rueger 
+32,Business,Leadership and Management,4.7,Ching Fong Ong 
+32,Business,Leadership and Management,4.7,Jeanne M. Liedtka 
+32,Business,Leadership and Management,4.7,Alex Cowan 
+33,Arts and Humanities,Music and Art,4.7,Michael Worthington 
+33,Arts and Humanities,Music and Art,4.7,Anther Kiley 
+33,Arts and Humanities,Music and Art,4.7,Gail Swanlund 
+33,Arts and Humanities,Music and Art,4.7,Louise Sandhaus 
+33,Arts and Humanities,Music and Art,4.7,Lorraine Wild 
+34,Information Technology,Security,4.8,IBM Security Learning Services 
+35,Language Learning,Learning English,4.8,Gerry Landers 
+35,Language Learning,Learning English,4.8,Amalia B. Stephens 
+35,Language Learning,Learning English,4.8,Karen Peterson 
+36,Business,Entrepreneurship,4.8,Lori Rosenkopf 
+36,Business,Entrepreneurship,4.8,Karl  T. Ulrich 
+36,Business,Entrepreneurship,4.8,Ethan Mollick 
+36,Business,Entrepreneurship,4.8,Kartik Hosanagar 
+36,Business,Entrepreneurship,4.8,David Hsu 
+37,Business,Business Essentials,4.8,Martin E.P. Seligman
+37,Business,Business Essentials,4.8,James Pawelski
+37,Business,Business Essentials,4.8,Claire Robertson-Kraft
+37,Business,Business Essentials,4.8,Angela Duckworth
+37,Business,Business Essentials,4.8,Karen Reivich
+38,Data Science,Data Analysis,4.5,Jeff Leek
+38,Data Science,Data Analysis,4.5,Roger D. Peng
+38,Data Science,Data Analysis,4.5,Brian Caffo
+39,Business,Business Essentials,4.8,Rudolf Leuschner
+40,Business,Business Essentials,4.6,Christopher Geczy 
+40,Business,Business Essentials,4.6,Natasha Sarin 
+40,Business,Business Essentials,4.6,Jessica Wachter 
+40,Business,Business Essentials,4.6,Sarah Hammer 
+40,Business,Business Essentials,4.6,David Musto 
+41,Business,Business Essentials,4.7, Microsoft 
+42,Business,Marketing,4.7,Rebekah May 
+42,Business,Marketing,4.7,Eric Enge 
+43,Data Science,Machine Learning,4.7,Jon Reifschneider 
+44,Computer Science,Software Development,4.4,Brandon Krakowsky 
+45,Business,Leadership and Management,4.8,Ibrahim Odeh
+46,Data Science,Data Analysis,4.7,Joseph Santarcangelo 
+46,Data Science,Data Analysis,4.7,Svitlana (Lana) Kramar 
+46,Data Science,Data Analysis,4.7,Mark J Grover 
+46,Data Science,Data Analysis,4.7,Miguel Maldonado 
+46,Data Science,Data Analysis,4.7,Yan Luo 
+46,Data Science,Data Analysis,4.7,Xintong Li 
+47,Business,Business Essentials,4.7,Alex Mannella 
+48,Information Technology,Cloud Computing,4.6,Morgan Willis 
+48,Information Technology,Cloud Computing,4.6,Seph Robinson 
+48,Information Technology,Cloud Computing,4.6,Rudy Chetty 
+48,Information Technology,Cloud Computing,4.6,Hong Pham 
+48,Information Technology,Cloud Computing,4.6,Alex G. 
+48,Information Technology,Cloud Computing,4.6,Wes Gruver 
+48,Information Technology,Cloud Computing,4.6,Bobbie Atristain 
+48,Information Technology,Cloud Computing,4.6,Rick Hurst 
+48,Information Technology,Cloud Computing,4.6,Adam Becker 
+49,Data Science,Data Analysis,4.6,Jeff Leek
+49,Data Science,Data Analysis,4.6,Roger D. Peng
+49,Data Science,Data Analysis,4.6,Brian Caffo
+50,Computer Science,Software Development,4.7,Paul Resnick 
+50,Computer Science,Software Development,4.7,Steve Oney 
+50,Computer Science,Software Development,4.7,Christopher Brooks 
+51,Data Science,Machine Learning,4.8,Martha White 
+51,Data Science,Machine Learning,4.8,Adam White 
+52,Computer Science,Algorithms,4.7,Wade Fagen-Ulmschneider 
+53,Business,Marketing,4.6,Aric Rindfleisch 
+53,Business,Marketing,4.6,Kevin Hartman 
+53,Business,Marketing,4.6,Mike Yao 
+53,Business,Marketing,4.6,Vishal Sachdev 
+54,Computer Science,Software Development,4.7,Morgan Willis 
+54,Computer Science,Software Development,4.7,Seph Robinson 
+54,Computer Science,Software Development,4.7,Rafael Lopes 
+54,Computer Science,Software Development,4.7,Russell Sayers 
+54,Computer Science,Software Development,4.7,Alana Layton 
+55,Data Science,Machine Learning,4.7,Sharon Zhou 
+55,Data Science,Machine Learning,4.7,Eda Zhou 
+55,Data Science,Machine Learning,4.7,Eric Zelikman 
+56,Data Science,Data Analysis,4.5,Desiree' Abbott 
+56,Data Science,Data Analysis,4.5,Govind Acharya 
+56,Data Science,Data Analysis,4.5,Hunter Whitney 
+56,Data Science,Data Analysis,4.5,Suk S. Brar
+57,Information Technology,Security,4.6,(ISC)² Education & Training 
+58,Business,Business Strategy,4.8,Michael Lenox 
+58,Business,Business Strategy,4.8,Jared Harris 
+58,Business,Business Strategy,4.8,Scott Snell 
+59,Data Science,Data Analysis,4.5,Christopher Brooks 
+59,Data Science,Data Analysis,4.5,Kevyn Collins-Thompson 
+59,Data Science,Data Analysis,4.5,V. G. Vinod Vydiswaran 
+59,Data Science,Data Analysis,4.5,Daniel Romero 
+60,Business,Business Strategy,4.8,John W. Budd 
+60,Business,Business Strategy,4.8,Amy Simon 
+60,Business,Business Strategy,4.8,Stacy Doepner-Hove 
+60,Business,Business Strategy,4.8,Larry Bourgerie 
+60,Business,Business Strategy,4.8,Alan Benson 
+60,Business,Business Strategy,4.8,Mike Davis 
+61,Personal Development,Personal Development,4.7,Richard Shell 
+61,Personal Development,Personal Development,4.7,Maurice Schweitzer 
+61,Personal Development,Personal Development,4.7,Stewart D.  Friedman 
+61,Personal Development,Personal Development,4.7,Cade Massey 
+62,Business,Business Essentials,4.8,Andrew Kandel 
+62,Business,Business Essentials,4.8,Lauren Steinfeld 
+63,Language Learning,Learning English,4.9,Emilia Gracia 
+63,Language Learning,Learning English,4.9,Dr. Justin Shewell 
+63,Language Learning,Learning English,4.9,Andrea Mürau Haraway 
+63,Language Learning,Learning English,4.9,Dr. Shane Dixon 
+63,Language Learning,Learning English,4.9,Jessica Cinco 
+64,Business,Finance,4.5,Garud Iyengar 
+64,Business,Finance,4.5,Ali Hirsa 
+64,Business,Finance,4.5,Martin Haugh 
+65,Arts and Humanities,Music and Art,4.7,Michael Worthington 
+65,Arts and Humanities,Music and Art,4.7,Roman Jaster 
+66,Business,Marketing,4.5,Dr. James V. Green 
+66,Business,Marketing,4.5,Cait von Schnetlage 
+66,Business,Marketing,4.5,Michael R. Pratt 
+67,Business,Finance,4.6,Gies College of Business
+67,Business,Finance,4.6, University of Illinois 
+68,Arts and Humanities,Music and Art,4.7,Brando Skyhorse 
+68,Arts and Humanities,Music and Art,4.7,Amy Bloom 
+68,Arts and Humanities,Music and Art,4.7,Amity Gaige 
+68,Arts and Humanities,Music and Art,4.7,Salvatore Scibona 
+69,Computer Science,Algorithms,4.6,Neil Rhodes 
+69,Computer Science,Algorithms,4.6,Daniel M Kane 
+69,Computer Science,Algorithms,4.6,Michael Levin 
+69,Computer Science,Algorithms,4.6,Michael Levin 
+69,Computer Science,Algorithms,4.6,Pavel  Pevzner 
+69,Computer Science,Algorithms,4.6,Alexander S. Kulikov 
+70,Computer Science,Design and Product,4.7,Kenny Wong 
+71,Business,Leadership and Management,4.7,Marc Badia 
+71,Business,Leadership and Management,4.7,Miguel Antón 
+71,Business,Leadership and Management,4.7,Mario Capizzani 
+71,Business,Leadership and Management,4.7,Anneloes Raes 
+71,Business,Leadership and Management,4.7,Carlos García Pont 
+72,Data Science,Data Analysis,4.4,Steven Salzberg
+72,Data Science,Data Analysis,4.4,Jeff Leek
+72,Data Science,Data Analysis,4.4,Mihaela Pertea
+72,Data Science,Data Analysis,4.4,Ben Langmead
+72,Data Science,Data Analysis,4.4,Jacob Pritt 
+72,Data Science,Data Analysis,4.4,Liliana Florea
+72,Data Science,Data Analysis,4.4,Kasper Daniel Hansen
+73,Social Sciences,Governance and Society,4.6,Annemarie Zand Scholten 
+73,Social Sciences,Governance and Society,4.6,Gerben Moerman 
+73,Social Sciences,Governance and Society,4.6,Matthijs Rooduijn 
+73,Social Sciences,Governance and Society,4.6,Emiel van Loon 
+74,Information Technology,Data Management,4.3,Rav Ahuja 
+74,Information Technology,Data Management,4.3,Ramesh Sannareddy 
+74,Information Technology,Data Management,4.3,Steve Ryan 
+74,Information Technology,Data Management,4.3,Karthik Muthuraman 
+74,Information Technology,Data Management,4.3,Aije Egwaikhide 
+74,Information Technology,Data Management,4.3,Romeo Kienzler 
+75,Business,Finance,4.8,Marc Badia 
+75,Business,Finance,4.8,Miguel Antón 
+75,Business,Finance,4.8,Javier Estrada 
+76,Data Science,Machine Learning,4.8,Laurence Moroney 
+76,Data Science,Machine Learning,4.8,Eddy Shyu 
+77,Data Science,Machine Learning,4.6,Google Cloud Training 
+78,Data Science,Machine Learning,4.6,David Dye 
+78,Data Science,Machine Learning,4.6,Samuel J. Cooper 
+78,Data Science,Machine Learning,4.6,A. Freddie Page 
+78,Data Science,Machine Learning,4.6,Marc Peter Deisenroth 
+79,Arts and Humanities,Music and Art,4.8,Lisa Mazzola 
+79,Arts and Humanities,Music and Art,4.8,Sarah Meister 
+79,Arts and Humanities,Music and Art,4.8,Lucy Gallun 
+79,Arts and Humanities,Music and Art,4.8,Sophie Cavoulacos 
+79,Arts and Humanities,Music and Art,4.8,Sean Anderson 
+79,Arts and Humanities,Music and Art,4.8,Arièle Dionne-Krosnick 
+79,Arts and Humanities,Music and Art,4.8,Erica Papernik-Shimizu 
+79,Arts and Humanities,Music and Art,4.8,Christian Rattemeyer 
+79,Arts and Humanities,Music and Art,4.8,Paola Antonelli 
+79,Arts and Humanities,Music and Art,4.8,Michelle Millar Fisher 
+79,Arts and Humanities,Music and Art,4.8,Stephanie Kramer 
+79,Arts and Humanities,Music and Art,4.8,Anna Burckhardt 
+80,Computer Science,Design and Product,4.7,Alex Cowan 
+81,Business,Business Essentials,4.6,Rob Stone
+81,Business,Business Essentials,4.6,Margaret  Meloni
+81,Business,Business Essentials,4.6,David Standen
+81,Business,Business Essentials,4.6,Diane Spiegel 
+81,Business,Business Essentials,4.6,Sue Robins
+81,Business,Business Essentials,4.6,  Dave Nagy 
+81,Business,Business Essentials,4.6,Patricia  Bravo
+82,Business,Business Essentials,4.8,Matthew Hutchens 
+82,Business,Business Essentials,4.8,Michael P Donohoe
+83,Arts and Humanities,Music and Art,4.9,John P. Kellogg
+83,Arts and Humanities,Music and Art,4.9,Stephen Webber 
+83,Arts and Humanities,Music and Art,4.9,Dr. E. Michael Harrington 
+83,Arts and Humanities,Music and Art,4.9,Chrissy Tignor 
+84,Health,Healthcare Management,4.6,Richard Lambert 
+84,Health,Healthcare Management,4.6,Christopher D. Ittner 
+84,Health,Healthcare Management,4.6,Ezekiel J. Emanuel
+84,Health,Healthcare Management,4.6,Guy David
+84,Health,Healthcare Management,4.6,Michael Useem 
+84,Health,Healthcare Management,4.6,Peter Cappelli 
+84,Health,Healthcare Management,4.6,Christian Terwiesch 
+84,Health,Healthcare Management,4.6,Amol S. Navathe
+84,Health,Healthcare Management,4.6,David A. Asch
+84,Health,Healthcare Management,4.6,Roy Rosin
+84,Health,Healthcare Management,4.6,Kevin Volpp
+85,Data Science,Machine Learning,4.6,Antje Barth 
+85,Data Science,Machine Learning,4.6,Shelbee Eigenbrode 
+85,Data Science,Machine Learning,4.6,Sireesha Muppala 
+85,Data Science,Machine Learning,4.6,Chris Fregly 
+86,Business,Finance,4.7,Joseph Iraci 
+86,Business,Finance,4.7,Jack Farmer 
+86,Business,Finance,4.7,Tracy Williams 
+87,Arts and Humanities,Music and Art,4.8,Stephen Webber 
+87,Arts and Humanities,Music and Art,4.8,Loudon Stearns 
+87,Arts and Humanities,Music and Art,4.8,Chrissy Tignor 
+88,Information Technology,Cloud Computing,4.7,Google Cloud Training 
+89,Information Technology,Cloud Computing,4.7,Google Cloud Training 
+90,Business,Leadership and Management,4.7,Don Klock  
+91,Business,Business Strategy,4.8,Luann J. Lynch 
+91,Business,Business Strategy,4.8,Mary Gentile 
+91,Business,Business Strategy,4.8,R. Edward Freeman   
+91,Business,Business Strategy,4.8,Alex Cowan 
+92,Business,Leadership and Management,4.7,Bill Bailey
+92,Business,Leadership and Management,4.7,Gregory Wiles
+92,Business,Leadership and Management,4.7,David Cook
+92,Business,Leadership and Management,4.7,Christina Scherrer
+93,Arts and Humanities,Music and Art,4.7,Pat Pattison 
+93,Arts and Humanities,Music and Art,4.7,Stephen Webber 
+93,Arts and Humanities,Music and Art,4.7,Chrissy Tignor 
+93,Arts and Humanities,Music and Art,4.7,Leah Waldo 
+94,Computer Science,Algorithms,4.8,Tim Roughgarden 
+95,Business,Leadership and Management,4.7,Professor Richard Badham 
+95,Business,Leadership and Management,4.7,Brenda Santiago 
+95,Business,Leadership and Management,4.7,Dr Andrew Heys 
+95,Business,Leadership and Management,4.7,Associate Professor Lawrence Ang 
+95,Business,Leadership and Management,4.7,Arabella MacPherson 
+95,Business,Leadership and Management,4.7,Professor Elizabeth Sheedy 
+96,Data Science,Data Analysis,4.5,Yan Luo 
+96,Data Science,Data Analysis,4.5,Rav Ahuja 
+96,Data Science,Data Analysis,4.5,Tiffany Zhu 
+96,Data Science,Data Analysis,4.5,Yiwen Li 
+96,Data Science,Data Analysis,4.5,Gabriela de Queiroz 
+96,Data Science,Data Analysis,4.5,Saishruthi Swaminathan 
+96,Data Science,Data Analysis,4.5,Jeff Grossman 
+97,Data Science,Data Analysis,4.8,Nick Santos 
+98,Business,Finance,4.8,Cam Harvey 
+99,Business,Business Essentials,4.7,Margaret  Meloni
+99,Business,Business Essentials,4.7,Sue Robins
+99,Business,Business Essentials,4.7,Diane Spiegel 
+100,Business,Business Essentials,4.7,Margaret  Meloni
+101,Computer Science,Software Development,4.6,Susan H. Rodger 
+101,Computer Science,Software Development,4.6,Robert Duvall 
+101,Computer Science,Software Development,4.6,Owen Astrachan 
+101,Computer Science,Software Development,4.6,Andrew D. Hilton 
+102,Computer Science,Software Development,4.8,Akos Ledeczi 
+102,Computer Science,Software Development,4.8,Mike Fitzpatrick 
+102,Computer Science,Software Development,4.8,Jack Noble 
+103,Business,Leadership and Management,4.8,Jeanne M. Liedtka 
+103,Business,Leadership and Management,4.8,Karen Hold 
+103,Business,Leadership and Management,4.8,Jessica Eldridge 
+104,Information Technology,Cloud Computing,4.7,Google Cloud Training 
+105,Information Technology,Security,4.7,Google Cloud Training 
+106,Business,Leadership and Management,4.8,Maxim Sytch
+106,Business,Leadership and Management,4.8,Cheri Alexander 
+107,Computer Science,Software Development,4.4,Ira Pohl 
+108,Computer Science,Software Development,4.7,Google Cloud Training 
+109,Computer Science,Design and Product,4.5,Nancy Wang 
+110,Business,Marketing,4.8,Jean Manuel Izaret 
+110,Business,Marketing,4.8,Thomas Kohler 
+110,Business,Marketing,4.8,Ronald T. Wilcox 
+111,Information Technology,Networking,4.8,Google Cloud Training 
+112,Social Sciences,Education,4.8,Tamy Chapman 
+112,Social Sciences,Education,4.8,Helen Nam 
+112,Social Sciences,Education,4.8,Brad Gilpin 
+113,Computer Science,Computer Security and Networks,4.7,Dr. Edward G. Amoroso 
+114,Data Science,Data Analysis,4.9,Oktay Urcan 
+114,Data Science,Data Analysis,4.9,Kevin Hartman 
+114,Data Science,Data Analysis,4.9,Ronald Guymon 
+114,Data Science,Data Analysis,4.9,Ashish Khandelwal 
+114,Data Science,Data Analysis,4.9,Douglas B. Laney 
+115,Business,Business Strategy,4.8,R. Polk Wagner 
+115,Business,Business Strategy,4.8,Shyam Balganesh 
+115,Business,Business Strategy,4.8,Cynthia Dahl 
+116,Arts and Humanities,Music and Art,4.8,Thaddeus Hogarth 
+116,Arts and Humanities,Music and Art,4.8,Jeannie Gagne 
+116,Arts and Humanities,Music and Art,4.8,Pat Pattison 
+116,Arts and Humanities,Music and Art,4.8,Erin Barra 
+117,Data Science,Machine Learning,4.7,Pranav Rajpurkar 
+117,Data Science,Machine Learning,4.7,Bora Uyumazturk 
+117,Data Science,Machine Learning,4.7,Amirhossein Kiani 
+117,Data Science,Machine Learning,4.7,Eddy Shyu 
+118,Business,Finance,4.5,Heitor Almeida 
+118,Business,Finance,4.5,Oktay Urcan 
+118,Business,Finance,4.5,Robert Metzger 
+118,Business,Finance,4.5,James Bertram 
+119,Personal Development,Personal Development,4.8,Dr. Matt McGarrity 
+120,Business,Business Essentials,4.5,Yao Zhao 
+121,Business,Leadership and Management,4.5,Lois A. Jordan 
+121,Business,Leadership and Management,4.5,David Cook
+122,Business,Leadership and Management,4.8,Elizabeth A. Luckman 
+122,Business,Leadership and Management,4.8,Kari Keating 
+122,Business,Leadership and Management,4.8,Denise Lewin Loyd 
+122,Business,Leadership and Management,4.8,Michael Bednar 
+122,Business,Leadership and Management,4.8,E. Geoffrey Love 
+122,Business,Leadership and Management,4.8,Deepak Somaya 
+122,Business,Leadership and Management,4.8,Joe Mahoney 
+122,Business,Leadership and Management,4.8,Jeff Flesher 
+123,Social Sciences,Education,4.8,Krystal Banfield 
+123,Social Sciences,Education,4.8,David Alexis 
+123,Social Sciences,Education,4.8,Gary Burton 
+123,Social Sciences,Education,4.8,Sarah Brindell 
+123,Social Sciences,Education,4.8,Bonnie Hayes 
+123,Social Sciences,Education,4.8,Stephen Webber 
+124,Business,Leadership and Management,4.7,Christy Bozic
+125,Computer Science,Design and Product,4.8,Mark Newman 
+125,Computer Science,Design and Product,4.8,Kentaro Toyama 
+125,Computer Science,Design and Product,4.8,Predrag Klasnja 
+125,Computer Science,Design and Product,4.8,Clifford Lampe 
+125,Computer Science,Design and Product,4.8,Lija Hogan 
+126,Personal Development,Personal Development,4.8,Patrick Barry 
+127,Health,Healthcare Management,4.7,Williams S. Ettouati
+127,Health,Healthcare Management,4.7,Joseph D. Ma 
+128,Business,Business Essentials,4.8,Nicky Bull 
+128,Business,Business Essentials,4.8,Dr Prashan S. M. Karunaratne 
+129,Health,Nutrition,4.8,Maya Adam
+130,Computer Science,Mobile and Web Development,4.8,Colleen van Lent
+130,Computer Science,Mobile and Web Development,4.8,Charles Russell Severance 
+131,Computer Science,Software Development,4.6, Microsoft 
+132,Business,Leadership and Management,4.8,Oktay Urcan 
+132,Business,Leadership and Management,4.8,Michael Bednar 
+132,Business,Leadership and Management,4.8,E. Geoffrey Love 
+132,Business,Leadership and Management,4.8,Fataneh Taghaboni-Dutta
+133,Health,Public Health,4.8,Janet Holbrook
+133,Health,Public Health,4.8,Ann-Margret Ervin
+133,Health,Public Health,4.8,Stephan Ehrhardt
+133,Health,Public Health,4.8,Elizabeth A. Sugar
+133,Health,Public Health,4.8,David M. Shade
+133,Health,Public Health,4.8,Anne Shanklin Casper
+133,Health,Public Health,4.8,Sheriza Baksh
+134,Business,Finance,4.5,Vijay Vaidyanathan
+134,Business,Finance,4.5,Claudia Carrone 
+134,Business,Finance,4.5,John Mulvey - Princeton University 
+134,Business,Finance,4.5,Gideon OZIK 
+134,Business,Finance,4.5,Sean McOwen 
+135,Data Science,Data Analysis,4.7,Mine Çetinkaya-Rundel 
+136,Business,Business Essentials,4.6,Daniel Egger 
+136,Business,Business Essentials,4.6,Jana Schaich Borg 
+137,Data Science,Probability and Statistics,4.7,Herbert Lee 
+137,Data Science,Probability and Statistics,4.7,Matthew Heiner 
+137,Data Science,Probability and Statistics,4.7,Abel Rodriguez 
+137,Data Science,Probability and Statistics,4.7,Raquel Prado 
+137,Data Science,Probability and Statistics,4.7,Jizhou Kang 
+138,Computer Science,Algorithms,4.7,Sriram Sankaranarayanan 
+139,Health,Public Health,4.8,John McGready
+140,Physical Science and Engineering,Electrical Engineering,4.8,Gregory Plett 
+141,Business,Business Essentials,4.8,Dr. Quentin McAndrew 
+141,Business,Business Essentials,4.8,David Underwood 
+141,Business,Business Essentials,4.8,Professor William Kuskin 
+142,Business,Finance,4.7,Oktay Urcan 
+142,Business,Finance,4.7,Gies College of Business
+142,Business,Finance,4.7, University of Illinois 
+142,Business,Finance,4.7,Heitor Almeida 
+142,Business,Finance,4.7,Stefan Zeume 
+142,Business,Finance,4.7,Jeff Flesher 
+143,Arts and Humanities,Music and Art,4.7,Fran Krause 
+143,Arts and Humanities,Music and Art,4.7,Dariush Derakhshani 
+143,Arts and Humanities,Music and Art,4.7,Théotime Vaillant 
+144,Data Science,Data Analysis,4.7,Arnold Bakker 
+144,Data Science,Data Analysis,4.7,Martin Lindquist
+144,Data Science,Data Analysis,4.7,Tor Wager
+144,Data Science,Data Analysis,4.7,Dr. Elizabeth Sweeney  
+144,Data Science,Data Analysis,4.7,Ciprian M. Crainiceanu 
+144,Data Science,Data Analysis,4.7,John Muschelli III  
+145,Arts and Humanities,Music and Art,4.8,Loudon Stearns 
+145,Arts and Humanities,Music and Art,4.8,Erin Barra 
+145,Arts and Humanities,Music and Art,4.8,Rishabh Rajan 
+146,Business,Business Strategy,4.6,MARÍA EIZAGUIRRE DIÉGUEZ 
+146,Business,Business Strategy,4.6,Pedro Cifuentes Huertas 
+146,Business,Business Strategy,4.6,Brian Hallett 
+146,Business,Business Strategy,4.6,Michael Thompson 
+147,Business,Business Essentials,4.7,David Cook
+147,Business,Business Essentials,4.7,Bill Bailey
+147,Business,Business Essentials,4.7,Christina Scherrer
+147,Business,Business Essentials,4.7,Gregory Wiles
+148,Computer Science,Design and Product,4.8,Charlie Nuttelman 
+149,Data Science,Probability and Statistics,4.7,Sharad Borle 
+150,Personal Development,Personal Development,4.7,Skills Network 
+151,Arts and Humanities,Music and Art,4.8,Pat Pattison 
+151,Arts and Humanities,Music and Art,4.8,Scarlet Keys 
+151,Arts and Humanities,Music and Art,4.8,Sarah Brindell 
+151,Arts and Humanities,Music and Art,4.8,Bonnie Hayes 
+151,Arts and Humanities,Music and Art,4.8,Erin Barra 
+152,Business,Business Essentials,4.6,Greg Urban
+152,Business,Business Essentials,4.6,Derek Newberry
+152,Business,Business Essentials,4.6,Dr. Aviva Legatt 
+152,Business,Business Essentials,4.6,Alan Barstow
+152,Business,Business Essentials,4.6,Dana Kaminstein
+152,Business,Business Essentials,4.6,Ramya Kumar
+152,Business,Business Essentials,4.6,Amrita V. Subramanian 
+153,Business,Finance,4.8,University of Geneva- Ines Chaieb 
+153,Business,Finance,4.8,University of Geneva- Jonas Demaurex 
+153,Business,Finance,4.8,University of Geneva- Rajna Gibson Brandon 
+153,Business,Finance,4.8,University of Geneva- Michel Girardin 
+153,Business,Finance,4.8,University of Geneva- Martin Hoesli 
+153,Business,Finance,4.8,University of Geneva- Olivier Scaillet 
+153,Business,Finance,4.8,University of Geneva- Philip Valta 
+153,Business,Finance,4.8,Dirk Effenberger 
+153,Business,Finance,4.8,Mark Haefele 
+153,Business,Finance,4.8,Brian Nick 
+153,Business,Finance,4.8,Mike Ryan 
+153,Business,Finance,4.8,Simon Smiles 
+153,Business,Finance,4.8,Themis Themistocleous 
+153,Business,Finance,4.8,Thomas Wacker 
+153,Business,Finance,4.8,Chris Wright 
+153,Business,Finance,4.8,University of Geneva- Tony Berrada 
+153,Business,Finance,4.8,University of Geneva- Kerstin Preuschoff 
+153,Business,Finance,4.8,University of Geneva- Philipp Krueger 
+154,Computer Science,Software Development,4.6,Owen Astrachan 
+154,Computer Science,Software Development,4.6,Robert Duvall 
+154,Computer Science,Software Development,4.6,Andrew D. Hilton 
+154,Computer Science,Software Development,4.6,Susan H. Rodger 
+154,Computer Science,Software Development,4.6,Mia Minnes 
+154,Computer Science,Software Development,4.6,Leo Porter 
+154,Computer Science,Software Development,4.6,Christine Alvarado 
+155,Business,Business Essentials,4.6,Kevin E. Jackson 
+155,Business,Business Essentials,4.6,Gary Hecht
+155,Business,Business Essentials,4.6,Sharon P. Cox
+156,Information Technology,Data Management,4.7,Di Wu 
+156,Information Technology,Data Management,4.7,Alan Paradise 
+157,Computer Science,Mobile and Web Development,4.7,Charles Russell Severance 
+158,Health,Basic Science,4.9,Laura S. Kabiri 
+159,Data Science,Machine Learning,4.4,Romeo Kienzler 
+159,Data Science,Machine Learning,4.4,Nikolay Manchev 
+159,Data Science,Machine Learning,4.4,Niketan Pansare 
+159,Data Science,Machine Learning,4.4,Tom Hanlon 
+159,Data Science,Machine Learning,4.4,Max Pumperla 
+159,Data Science,Machine Learning,4.4,Ilja Rasin 
+160,Data Science,Machine Learning,4.6,Daphne Koller 
+161,Physical Science and Engineering,Electrical Engineering,4.5,Timothy Scherr 
+161,Physical Science and Engineering,Electrical Engineering,4.5,Benjamin Spriggs 
+162,Health,Patient Care,4.8,Daniel Nicklas 
+162,Health,Patient Care,4.8,Eve Kutchman 
+162,Health,Patient Care,4.8,Lauren Welch 
+162,Health,Patient Care,4.8,Karen Hecker 
+163,Health,Public Health,4.7,Alex Bottle 
+163,Health,Public Health,4.7,Victoria Cornelius 
+164,Business,Leadership and Management,4.8,John P. Kellogg
+164,Business,Leadership and Management,4.8,Leah Waldo 
+164,Business,Leadership and Management,4.8,Dr. E. Michael Harrington 
+164,Business,Leadership and Management,4.8,Panos Panay 
+165,Health,Health Informatics,4.8,Ashwini S. Davison
+165,Health,Health Informatics,4.8,Jessica M. Roosth 
+165,Health,Health Informatics,4.8,Ebony Williams 
+165,Health,Health Informatics,4.8,Sylvia Devlin
+165,Health,Health Informatics,4.8,Paul Nagy
+166,Business,Finance,4.4,Jeff Praissman 
+166,Business,Finance,4.4,Lucas Deaver 
+166,Business,Finance,4.4,Andrew Wilkinson 
+166,Business,Finance,4.4,Steven Levine 
+166,Business,Finance,4.4,Mary MacNamara 
+167,Arts and Humanities,Philosophy,4.6,Dr. Walter  Sinnott-Armstrong 
+167,Arts and Humanities,Philosophy,4.6,Dr. Ram  Neta 
+168,Computer Science,Software Development,4.6,Bina Ramamurthy 
+169,Computer Science,Software Development,4.6,Kenny Wong 
+170,Business,Finance,4.7,RICCARDO REBONATO - EDHEC BUSINESS SCHOOL 
+170,Business,Finance,4.7,LIONEL MARTELLINI -EDHEC BUSINESS SCHOOL 
+170,Business,Finance,4.7,GIANFRANCO GIANFRATE - EDHEC BUSINESS SCHOOL 
+170,Business,Finance,4.7,EMANUELE CHINI - EDHEC BUSINESS SCHOOL 
+171,Computer Science,Software Development,4.7,Martin Odersky 
+171,Computer Science,Software Development,4.7,Prof. Viktor Kuncak 
+171,Computer Science,Software Development,4.7,Dr. Aleksandar Prokopec 
+171,Computer Science,Software Development,4.7,Prof. Heather Miller 
+171,Computer Science,Software Development,4.7,Julien Richard-Foy 
+172,Data Science,Data Analysis,4.7, Microsoft 
+173,Business,Finance,4.7,Robert Dittmar 
+173,Business,Finance,4.7,Andrew Wu 
+174,Business,Leadership and Management,4.7,Mauro Guillen 
+174,Business,Leadership and Management,4.7,Philip Nichols 
+174,Business,Leadership and Management,4.7,James D. Thompson 
+174,Business,Leadership and Management,4.7,"Ian ""Mac"" MacMillan "
+174,Business,Leadership and Management,4.7,Katherine Klein 
+174,Business,Leadership and Management,4.7,Christopher Geczy 
+175,Data Science,Machine Learning,4.6,Google Cloud Training 
+176,Health,Patient Care,4.8,Robin Austin
+176,Health,Patient Care,4.8,Teri Verner
+176,Health,Patient Care,4.8,Susan Thompson
+176,Health,Patient Care,4.8,Amy Taylor
+176,Health,Patient Care,4.8,Janet Tomaino
+176,Health,Patient Care,4.8,Louise Delagran 
+176,Health,Patient Care,4.8,Alex Haley 
+177,Business,Business Essentials,4.8,Jane McGonigal 
+178,Business,Leadership and Management,4.7,Michael J. Readey
+179,Language Learning,Learning English,4.9,Jessica Cinco 
+179,Language Learning,Learning English,4.9,Dr. Shane Dixon 
+179,Language Learning,Learning English,4.9,Dr. Justin Shewell 
+180,Computer Science,Algorithms,4.5,Alexander S. Kulikov 
+180,Computer Science,Algorithms,4.5,Michael Levin 
+180,Computer Science,Algorithms,4.5,Владимир Подольский 
+180,Computer Science,Algorithms,4.5,Michael Levin 
+181,Computer Science,Software Development,4.6,Noel J. Bergman 
+181,Computer Science,Software Development,4.6,Evan Bergman 
+182,Business,Leadership and Management,4.8,Tom Phalen 
+182,Business,Leadership and Management,4.8,Kazimir Karwowski 
+183,Health,Health Informatics,4.4,Pavel  Pevzner 
+183,Health,Health Informatics,4.4,Phillip Compeau 
+183,Health,Health Informatics,4.4,Nikolay Vyahhi 
+184,Computer Science,Computer Security and Networks,4.6,EC-Council 
+185,Business,Leadership and Management,4.7,Leigh Thompson 
+185,Business,Leadership and Management,4.7,Tom Collinger 
+185,Business,Leadership and Management,4.7,Ernest Duplessis 
+185,Business,Leadership and Management,4.7,Hud Englehart 
+185,Business,Leadership and Management,4.7,Candy Lee 
+185,Business,Leadership and Management,4.7,Daniel J. O’Keefe 
+185,Business,Leadership and Management,4.7,Greg Carpenter 
+185,Business,Leadership and Management,4.7,Florian Zettelmeyer 
+185,Business,Leadership and Management,4.7,Sanjay Khosla 
+185,Business,Leadership and Management,4.7,Elizabeth Gerber 
+185,Business,Leadership and Management,4.7,Pam Daniels 
+185,Business,Leadership and Management,4.7,Ed Colgate 
+185,Business,Leadership and Management,4.7,Greg Holderfield 
+185,Business,Leadership and Management,4.7,Barbara O'Keefe 
+186,Business,Leadership and Management,4.7,Valérie Gauthier 
+187,Arts and Humanities,Music and Art,4.8,Peter Glendinning 
+187,Arts and Humanities,Music and Art,4.8,Mark Valentine Sullivan 
+188,Business,Business Strategy,4.8,Barbara E. Kahn 
+188,Business,Business Strategy,4.8,Matthew Bidwell 
+188,Business,Business Strategy,4.8,Santiago Gallino 
+189,Physical Science and Engineering,Environmental Science and Sustainability,4.8,Stephen R. Lawrence 
+189,Physical Science and Engineering,Environmental Science and Sustainability,4.8,Paul Komor 
+190,Health,Patient Care,4.8,Angela Wright
+190,Health,Patient Care,4.8,Whitney Barrett
+190,Health,Patient Care,4.8,Arthur Pliaconis 
+190,Health,Patient Care,4.8,Kathrine Lopez 
+191,Business,Marketing,4.5,Jim Fong 
+191,Business,Marketing,4.5,Susan Berman 
+191,Business,Marketing,4.5,Olivier Rubel
+191,Business,Marketing,4.5,Robin Boyar 
+191,Business,Marketing,4.5,Ashwin Aravindakshan
+192,Business,Business Strategy,4.7,Keanan Duffty 
+193,Data Science,Data Analysis,4.9,Don Boyes 
+194,Business,Finance,4.3,Ramabhadran Thirumalai 
+194,Business,Finance,4.3,Prasanna Tantri 
+195,Health,Healthcare Management,4.8,Theodore Ruger 
+195,Health,Healthcare Management,4.8,Lauren Steinfeld 
+195,Health,Healthcare Management,4.8,R. Polk Wagner 
+195,Health,Healthcare Management,4.8,Angus Corbett 
+196,Computer Science,Mobile and Web Development,4.8,Charles Russell Severance 
+197,Business,Leadership and Management,4.8,Suzanne Healy
+197,Business,Leadership and Management,4.8,Richard Boyatzis 
+197,Business,Leadership and Management,4.8,Diana Bilimoria
+197,Business,Leadership and Management,4.8,Ellen  VanOosten
+197,Business,Leadership and Management,4.8,Melvin Smith 
+197,Business,Leadership and Management,4.8,Ronald Fry 
+198,Business,Marketing,4.4,Shameek Sinha 
+198,Business,Marketing,4.4,Ignacio Gafo 
+198,Business,Marketing,4.4,Maria Teresa Aranzabal 
+198,Business,Marketing,4.4,Fernando Cortiñas 
+198,Business,Marketing,4.4,Ramon Diaz-Bernardo 
+199,Health,Health Informatics,4.4,Harold P. Lehmann
+199,Health,Health Informatics,4.4,Ashwini S. Davison
+199,Health,Health Informatics,4.4,Paul Nagy
+199,Health,Health Informatics,4.4,Hadi H. K. Kharrazi
+199,Health,Health Informatics,4.4,Sam Meiselman 
+200,Physical Science and Engineering,Electrical Engineering,4.3,Vijay Kumar 
+200,Physical Science and Engineering,Electrical Engineering,4.3,CJ Taylor 
+200,Physical Science and Engineering,Electrical Engineering,4.3,Daniel E. Koditschek 
+200,Physical Science and Engineering,Electrical Engineering,4.3,Kostas Daniilidis 
+200,Physical Science and Engineering,Electrical Engineering,4.3,Jianbo Shi 
+200,Physical Science and Engineering,Electrical Engineering,4.3,Daniel Lee 
+200,Physical Science and Engineering,Electrical Engineering,4.3,Sid Deliwala 
+201,Business,Leadership and Management,4.8,John Kim 
+202,Data Science,Machine Learning,4.7,Emily Fox 
+202,Data Science,Machine Learning,4.7,Carlos Guestrin 
+203,Business,Business Essentials,4.7,Laurie Cozart 
+203,Business,Business Essentials,4.7,Diane Davidson 
+203,Business,Business Essentials,4.7,Lisa Montanaro 
+204,Computer Science,Software Development,4.2,Dr Edward Anstead 
+204,Computer Science,Software Development,4.2,Dr Simon Katan 
+204,Computer Science,Software Development,4.2,Prof Marco Gillies 
+204,Computer Science,Software Development,4.2,Omar Karakchi 
+204,Computer Science,Software Development,4.2,Dr Matthew Yee-King 
+205,Computer Science,Software Development,4.7,"Dr. Tim ""Dr. T"" Chamillard "
+206,Computer Science,Algorithms,4.7,Nicola Gatti 
+206,Computer Science,Algorithms,4.7,Viola Schiaffonati 
+206,Computer Science,Algorithms,4.7,Annamaria Italiano 
+206,Computer Science,Algorithms,4.7,Manuel Roveri 
+206,Computer Science,Algorithms,4.7,Marcello Restelli 
+207,Physical Science and Engineering,Electrical Engineering,4.6,James Zweighaft 
+207,Physical Science and Engineering,Electrical Engineering,4.6,Jay Mendelson 
+208,Math and Logic,Math and Logic,4.5,Jane Wall 
+208,Math and Logic,Math and Logic,4.5,James Bird 
+209,Computer Science,Design and Product,4.7,Charlie Nuttelman 
+210,Computer Science,Software Development,4.7,Rémi SHARROCK 
+210,Computer Science,Software Development,4.7,Petra Bonfert-Taylor 
+211,Computer Science,Computer Security and Networks,4.7,Don Tapscott 
+211,Computer Science,Computer Security and Networks,4.7,Alex Tapscott 
+212,Language Learning,Learning English,4.8,Helen Nam 
+212,Language Learning,Learning English,4.8,Marla Yoshida 
+212,Language Learning,Learning English,4.8,Meg Parker 
+212,Language Learning,Learning English,4.8,Emily Wong 
+213,Information Technology,Security,4.8,Herbert J. Mattord
+213,Information Technology,Security,4.8,Michael Whitman
+214,Physical Science and Engineering,Electrical Engineering,4.6,Ken English 
+214,Physical Science and Engineering,Electrical Engineering,4.6,Rahul Rai 
+214,Physical Science and Engineering,Electrical Engineering,4.6,Sara Behdad 
+214,Physical Science and Engineering,Electrical Engineering,4.6,Shambhu Upadhyaya 
+214,Physical Science and Engineering,Electrical Engineering,4.6,Amy Moore 
+215,Health,Public Health,4.7,Aruna Chandran
+215,Health,Public Health,4.7,Keri Althoff
+215,Health,Public Health,4.7,Emily Gurley
+215,Health,Public Health,4.7,Stefan Baral
+215,Health,Public Health,4.7,Justin Lessler
+216,Business,Marketing,4.7,Randy Hlavac 
+217,Business,Finance,4.7,Larry DeBrock 
+217,Business,Finance,4.7,Hadi Salehi Esfahani 
+217,Business,Finance,4.7,Fataneh Taghaboni-Dutta
+217,Business,Finance,4.7,Vlad Dolgopolov 
+218,Physical Science and Engineering,Environmental Science and Sustainability,4.1,Christopher Boone 
+219,Computer Science,Design and Product,4.5,Scott  Klemmer 
+219,Computer Science,Design and Product,4.5,Elizabeth Gerber 
+219,Computer Science,Design and Product,4.5,Jacob O. Wobbrock 
+220,Computer Science,Software Development,4.6,Andrew D. Hilton 
+220,Computer Science,Software Development,4.6,Genevieve M. Lipp 
+220,Computer Science,Software Development,4.6,Anne Bracy 
+221,Language Learning,Learning English,4.8,Tamy Chapman 
+221,Language Learning,Learning English,4.8,Emily Wong 
+221,Language Learning,Learning English,4.8,Brad Gilpin 
+221,Language Learning,Learning English,4.8,Judy Hu 
+221,Language Learning,Learning English,4.8,Helen Nam 
+222,Arts and Humanities,Music and Art,4.8,Thaddeus Hogarth 
+222,Arts and Humanities,Music and Art,4.8,Amanda Monaco 
+222,Arts and Humanities,Music and Art,4.8,Rick Peckham 
+222,Arts and Humanities,Music and Art,4.8,Tim Miller 
+223,Computer Science,Software Development,3.9,Derek Parsons 
+224,Business,Finance,4.5,Arzu Ozoguz 
+224,Business,Finance,4.5,Jill Foote 
+225,Business,Leadership and Management,4.8,Kris Plachy 
+226,Data Science,Data Analysis,4.9,Collin Paschall 
+227,Business,Business Essentials,4.7,Ronald Guymon 
+227,Business,Business Essentials,4.7,Ashish Khandelwal 
+227,Business,Business Essentials,4.7,Kevin Hartman 
+227,Business,Business Essentials,4.7,Gies College of Business
+227,Business,Business Essentials,4.7, University of Illinois 
+227,Business,Business Essentials,4.7,Unnati Narang 
+227,Business,Business Essentials,4.7,Joseph T. Yun 
+228,Physical Science and Engineering,Electrical Engineering,4.7,Ian Harris 
+229,Computer Science,Software Development,4.1,Sanjai Rayadurgam 
+229,Computer Science,Software Development,4.1,Kevin Wendt 
+229,Computer Science,Software Development,4.1,Mike 
+230,Information Technology,Cloud Computing,4.8,Chris Caillouet 
+230,Information Technology,Cloud Computing,4.8,Upendra Rajan 
+230,Information Technology,Cloud Computing,4.8,Bill Miller 
+231,Physical Science and Engineering,Electrical Engineering,4.8,Dr. Robert Erickson 
+232,Data Science,Machine Learning,4.6, Microsoft 
+233,Computer Science,Computer Security and Networks,4.6,Jennifer Golbeck 
+233,Computer Science,Computer Security and Networks,4.6,Michael Hicks 
+233,Computer Science,Computer Security and Networks,4.6,Jonathan  Katz 
+233,Computer Science,Computer Security and Networks,4.6,Gang Qu 
+234,Health,Basic Science,4.9,Kenneth J. Pienta
+234,Health,Basic Science,4.9,Jelani Zarif 
+234,Health,Basic Science,4.9,Sarah Amend 
+234,Health,Basic Science,4.9,Haley Axelrod 
+234,Health,Basic Science,4.9,Kenneth Valkenburg 
+235,Business,Leadership and Management,4.9,Sydney Finkelstein 
+236,Language Learning,Other Languages,4.8,YU Bin 
+236,Language Learning,Other Languages,4.8,LIU Lixin 
+236,Language Learning,Other Languages,4.8,CHEN LI 
+236,Language Learning,Other Languages,4.8,LU Yun 
+237,Health,Psychology,4.8,Jen D'Andrea 
+237,Health,Psychology,4.8,Jill Morawski 
+237,Health,Psychology,4.8,Alexis May 
+238,Language Learning,Learning English,4.8,Richard Moore 
+238,Language Learning,Learning English,4.8,Wendy Asplin 
+239,Data Science,Probability and Statistics,4.6,Brenda Gunderson 
+239,Data Science,Probability and Statistics,4.6,Brady T. West 
+239,Data Science,Probability and Statistics,4.6,Kerby Shedden 
+240,Business,Leadership and Management,4.5,Najla DeBow 
+240,Business,Leadership and Management,4.5,Amit Kothari 
+241,Data Science,Data Analysis,4.5,Ilkay Altintas 
+241,Data Science,Data Analysis,4.5,Amarnath Gupta 
+241,Data Science,Data Analysis,4.5,Mai Nguyen 
+242,Computer Science,Software Development,4.7,UiPath 
+243,Health,Healthcare Management,4.6,Margaret Kilduff
+244,Data Science,Machine Learning,4.5,John C. Hart 
+244,Data Science,Machine Learning,4.5,ChengXiang Zhai 
+244,Data Science,Machine Learning,4.5,Jiawei Han 
+245,Information Technology,Data Management,4.4,Kennedy Behrman 
+245,Information Technology,Data Management,4.4,Alfredo Deza 
+245,Information Technology,Data Management,4.4,Noah Gift 
+246,Business,Finance,4.6,Oliver Belin 
+246,Business,Finance,4.6,Jack Farmer 
+247,Information Technology,Data Management,4.6,Rafiq Wayani 
+248,Data Science,Machine Learning,3.9,Jack Farmer 
+249,Computer Science,Software Development,4.6,Praveen Mittal 
+249,Computer Science,Software Development,4.6,Kevin Wendt 
+250,Physical Science and Engineering,Mechanical Engineering,4.8,Autodesk 
+251,Data Science,Probability and Statistics,4.7,Douglas C. Montgomery 
+252,Computer Science,Design and Product,4.6,Jeongki Lim 
+253,Business,Business Strategy,4.7,Robert Austin 
+253,Business,Business Strategy,4.7,Marcus Møller Larsen 
+253,Business,Business Strategy,4.7,Nicolai Pogrebnyakov 
+254,Business,Leadership and Management,4.7,Peter O'Connor 
+254,Business,Leadership and Management,4.7,Nicolas Graf 
+254,Business,Leadership and Management,4.7,Augustin Cacot 
+254,Business,Leadership and Management,4.7,Nathaniel Green 
+254,Business,Leadership and Management,4.7,Alex Slors 
+254,Business,Leadership and Management,4.7,David Turnbull 
+254,Business,Leadership and Management,4.7,Brendan May 
+254,Business,Leadership and Management,4.7,Martin Soler 
+254,Business,Leadership and Management,4.7,Lennert De Jong 
+255,Business,Business Essentials,4.6,Marla Noel 
+255,Business,Business Essentials,4.6,Steve Fritzenkotter 
+256,Business,Entrepreneurship,4.5,Manuel Adelino 
+256,Business,Entrepreneurship,4.5,David Robinson 
+256,Business,Entrepreneurship,4.5,Manju Puri 
+256,Business,Entrepreneurship,4.5,Cam Harvey 
+256,Business,Entrepreneurship,4.5,David Hsieh 
+257,Computer Science,Software Development,4.5,Aspen Olmsted 
+258,Information Technology,Cloud Computing,4.8,Google Cloud Training 
+259,Computer Science,Algorithms,4.8,Shree Nayar 
+260,Data Science,Machine Learning,3.7,Igor Halperin 
+261,Business,Leadership and Management,4.7,Aurélien Colson 
+261,Business,Leadership and Management,4.7,Alan Jenkins 
+261,Business,Leadership and Management,4.7,Joseph Maila 
+262,Computer Science,Software Development,4.8,John Greiner 
+262,Computer Science,Software Development,4.8,Stephen Wong 
+262,Computer Science,Software Development,4.8,Scott Rixner 
+262,Computer Science,Software Development,4.8,Joe Warren 
+262,Computer Science,Software Development,4.8,Luay Nakhleh 
+263,Data Science,Data Analysis,4.5,Jeff Leek
+263,Data Science,Data Analysis,4.5,Brian Caffo
+263,Data Science,Data Analysis,4.5,Roger D. Peng
+264,Computer Science,Mobile and Web Development,4.7,Charles Russell Severance 
+265,Business,Marketing,4.5,Digital Marketing Institute 
+265,Business,Marketing,4.5,Cathal Melinn 
+266,Business,Leadership and Management,4.7,Oxana Trotsenko 
+267,Health,Patient Care,4.4,Kavitha Ramchandran 
+267,Health,Patient Care,4.4,Jan DeNofrio 
+267,Health,Patient Care,4.4,Joshua C. Fronk 
+267,Health,Patient Care,4.4,Manuela Kogon 
+268,Physical Science and Engineering,Physics and Astronomy,4.8,Eric Poquillon 
+269,Business,Leadership and Management,4.9,Professor Jaco Lok 
+269,Business,Leadership and Management,4.9,Professor Rebecca Mitchell 
+269,Business,Leadership and Management,4.9,Dr Richard Claydon 
+269,Business,Leadership and Management,4.9,Arabella MacPherson 
+269,Business,Leadership and Management,4.9,Associate Professor Edward Wray-Bliss 
+269,Business,Leadership and Management,4.9,Dr Abas Mirzaei 
+270,Data Science,Data Analysis,4.5,Michael Mannino 
+270,Data Science,Data Analysis,4.5,Jahangir Karimi 
+271,Business,Business Strategy,4.7, Theodore Henry King CLARK 
+271,Business,Business Strategy,4.7,Garvin Percy DIAS 
+272,Physical Science and Engineering,Electrical Engineering,4.6,Paolo Prandoni 
+272,Physical Science and Engineering,Electrical Engineering,4.6,Martin Vetterli 
+273,Data Science,Data Analysis,4.6,Brian Caffo
+273,Data Science,Data Analysis,4.6,Roger D. Peng
+273,Data Science,Data Analysis,4.6,Jeff Leek
+274,Physical Science and Engineering,Environmental Science and Sustainability,4.8,Scott Solomon 
+275,Business,Finance,4.8,Andrea Eliassen 
+276,Personal Development,Personal Development,4.8,Patrick Barry 
+277,Health,Basic Science,4.8,Alma Moon Novotny
+278,Business,Leadership and Management,4.8,Sarah Kaplan 
+278,Business,Leadership and Management,4.8,Brian Silverman 
+278,Business,Leadership and Management,4.8,Chanel Grenaway 
+278,Business,Leadership and Management,4.8,Karen Sihra
+278,Business,Leadership and Management,4.8,Nika Stelman 
+278,Business,Leadership and Management,4.8,Mark Leung 
+278,Business,Leadership and Management,4.8,Jia-Lin Xie 
+278,Business,Leadership and Management,4.8,Nouman Ashraf 
+279,Data Science,Probability and Statistics,4.3,Anne Dougherty 
+279,Data Science,Probability and Statistics,4.3,Jem Corcoran 
+280,Business,Leadership and Management,4.5,Nancy Wang 
+280,Business,Leadership and Management,4.5,Gordon Yu 
+281,Computer Science,Computer Security and Networks,4.6,Matthew Caesar 
+282,Business,Business Essentials,4.5,David James 
+282,Business,Business Essentials,4.5,George Kapetanios 
+282,Business,Business Essentials,4.5,Dr Alan Parkinson 
+282,Business,Business Essentials,4.5,Barry McCarthy 
+283,Health,Public Health,4.8,Karen Andes
+284,Business,Leadership and Management,4.8,Richard Anthony Baker
+284,Business,Leadership and Management,4.8, J.D.
+284,Business,Leadership and Management,4.8, M.P.A
+285,Data Science,Data Analysis,4.3,Frauke Kreuter
+285,Data Science,Data Analysis,4.3,Mariel Leonard 
+285,Data Science,Data Analysis,4.3,Frederick Conrad
+285,Data Science,Data Analysis,4.3,James M Lepkowski 
+285,Data Science,Data Analysis,4.3,Richard Valliant
+286,Business,Business Essentials,4.6,Brian Walsh 
+286,Business,Business Essentials,4.6,Lauren Anastasio 
+287,Business,Business Essentials,4.7,Gregory L. Davis
+287,Business,Business Essentials,4.7, CPA
+287,Business,Business Essentials,4.7, CMA
+287,Business,Business Essentials,4.7, CFM
+287,Business,Business Essentials,4.7, CCM 
+287,Business,Business Essentials,4.7,Gerlando Lima 
+287,Business,Business Essentials,4.7,Adel Ibrahim 
+287,Business,Business Essentials,4.7,Wei Li
+288,Business,Business Essentials,4.3,Stephane Muller 
+289,Math and Logic,Math and Logic,4.3,Brian Caffo
+290,Business,Entrepreneurship,4.6,Forrest S. Carter 
+290,Business,Entrepreneurship,4.6,Ken Szymusiak 
+290,Business,Entrepreneurship,4.6,David Wheeler 
+291,Health,Patient Care,4.8,Melinda Sawyer 
+291,Health,Patient Care,4.8,Eileen Kasda 
+291,Health,Patient Care,4.8,Bob Hody 
+291,Health,Patient Care,4.8,Lisa H. Lubomski
+291,Health,Patient Care,4.8,David Thompson DNSc
+291,Health,Patient Care,4.8, MS
+291,Health,Patient Care,4.8,Matt Austin 
+291,Health,Patient Care,4.8,David Schwartz 
+292,Social Sciences,Education,5,Barbara Oakley 
+292,Social Sciences,Education,5,Beth Rogowsky 
+292,Social Sciences,Education,5,Dr. Terrence Sejnowski 
+292,Social Sciences,Education,5,David Joyner 
+293,Business,Business Essentials,4.4,David Torgerson 
+293,Business,Business Essentials,4.4,Dan Zhang 
+293,Business,Business Essentials,4.4,Manuel Laguna 
+294,Business,Business Strategy,4.6,Sean Chiles 
+294,Business,Business Strategy,4.6,Leslie Holden 
+295,Business,Business Strategy,4.8,Tobias Kretschmer 
+296,Information Technology,Security,4.7,Greg Williams 
+297,Business,Business Essentials,4.5,Kin Tang 
+297,Business,Business Essentials,4.5,Delian Gaskell 
+297,Business,Business Essentials,4.5,Sean McMinn 
+298,Social Sciences,Law,4.9,Christopher Millard 
+298,Social Sciences,Law,4.9,Chris Reed 
+298,Social Sciences,Law,4.9,Johan David Michels 
+298,Social Sciences,Law,4.9,Ian Walden 
+298,Social Sciences,Law,4.9,Dimitra Kamarinou 
+298,Social Sciences,Law,4.9,Jessica Shurson 
+298,Social Sciences,Law,4.9,Vasiliki Koukoulioti 
+299,Business,Leadership and Management,4.9,Daniel Trabucchi 
+299,Business,Leadership and Management,4.9,Tommaso Buganza 
+300,Physical Science and Engineering,Electrical Engineering,4.4,Robert McLeod 
+301,Computer Science,Mobile and Web Development,4.5,Dr. Jerry Roth 
+301,Computer Science,Mobile and Web Development,4.5,Dr. Julie L. Johnson 
+301,Computer Science,Mobile and Web Development,4.5,Michael Walker 
+301,Computer Science,Mobile and Web Development,4.5,Dr. Douglas C. Schmidt 
+301,Computer Science,Mobile and Web Development,4.5,Dr. Jules White 
+302,Business,Marketing,4.6,Erin Willis 
+303,Information Technology,Cloud Computing,4.7, Marek Czernek 
+304,Arts and Humanities,Music and Art,4.9,George W. Russell
+304,Arts and Humanities,Music and Art,4.9, Jr. 
+305,Business,Leadership and Management,4.8,Raj Echambadi 
+305,Business,Leadership and Management,4.8,E. Geoffrey Love 
+305,Business,Leadership and Management,4.8,Jeffrey Loewenstein 
+305,Business,Leadership and Management,4.8,Jack Goncalo 
+305,Business,Leadership and Management,4.8,Ravi Mehta 
+305,Business,Leadership and Management,4.8,Thomas E. Parkinson 
+305,Business,Leadership and Management,4.8,Jeff Flesher 
+306,Computer Science,Software Development,4.6,"Dr. Tim ""Dr. T"" Chamillard "
+307,Math and Logic,Math and Logic,4.9,Jeffrey R. Chasnov 
+308,Business,Marketing,4.6,Luis Rodriguez Baptista 
+308,Business,Marketing,4.6,Martin Boehm 
+308,Business,Marketing,4.6,Maria Teresa Aranzabal 
+308,Business,Marketing,4.6,Eda Sayin 
+308,Business,Marketing,4.6,Ramon Diaz-Bernardo 
+309,Data Science,Machine Learning,4.7,Laurence Moroney 
+310,Business,Marketing,4.6,John Lavine 
+310,Business,Marketing,4.6,Candy Lee 
+310,Business,Marketing,4.6,Randy Hlavac 
+311,Business,Marketing,4.6,Digital Marketing Institute 
+311,Business,Marketing,4.6,Cathal Melinn 
+312,Information Technology,Cloud Computing,4.8,Google Cloud Training 
+313,Health,Public Health,4.8,William Brieger
+313,Health,Public Health,4.8, DrPH 
